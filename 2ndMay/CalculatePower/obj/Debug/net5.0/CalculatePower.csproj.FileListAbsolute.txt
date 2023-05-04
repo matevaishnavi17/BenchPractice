@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\CalculatePower.exe
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\CalculatePower.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\CalculatePower.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\CalculatePower.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\CalculatePower.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\ref\CalculatePower.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\bin\Debug\net5.0\CalculatePower.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\ref\CalculatePower.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\CalculatePower\obj\Debug\net5.0\CalculatePower.genruntimeconfig.cache

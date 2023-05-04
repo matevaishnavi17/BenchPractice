@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\uniquecharacterofstring.exe
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\uniquecharacterofstring.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\uniquecharacterofstring.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\uniquecharacterofstring.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\uniquecharacterofstring.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\ref\uniquecharacterofstring.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\bin\Debug\net5.0\uniquecharacterofstring.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\ref\uniquecharacterofstring.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\uniquecharacterofstring\obj\Debug\net5.0\uniquecharacterofstring.genruntimeconfig.cache

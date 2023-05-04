@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\SmallestSum.exe
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\SmallestSum.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\SmallestSum.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\SmallestSum.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\SmallestSum.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\ref\SmallestSum.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\bin\Debug\net5.0\SmallestSum.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\ref\SmallestSum.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\SmallestSum\obj\Debug\net5.0\SmallestSum.genruntimeconfig.cache

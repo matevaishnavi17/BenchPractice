@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ReverseStringWithRecurssion.exe
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ReverseStringWithRecurssion.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ReverseStringWithRecurssion.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ReverseStringWithRecurssion.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ReverseStringWithRecurssion.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ref\ReverseStringWithRecurssion.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\bin\Debug\net5.0\ReverseStringWithRecurssion.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ref\ReverseStringWithRecurssion.dll
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\2ndMay\ReverseStringWithRecurssion\obj\Debug\net5.0\ReverseStringWithRecurssion.genruntimeconfig.cache
