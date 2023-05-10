@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\reversenumber.exe
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\reversenumber.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\reversenumber.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\reversenumber.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\reversenumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\ref\reversenumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\bin\Debug\net5.0\reversenumber.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\ref\reversenumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\reversenumber\obj\Debug\net5.0\reversenumber.genruntimeconfig.cache

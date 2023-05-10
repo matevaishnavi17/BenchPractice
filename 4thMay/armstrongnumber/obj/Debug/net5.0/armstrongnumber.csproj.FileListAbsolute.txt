@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\armstrongnumber.exe
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\armstrongnumber.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\armstrongnumber.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\armstrongnumber.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\armstrongnumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\ref\armstrongnumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\bin\Debug\net5.0\armstrongnumber.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\ref\armstrongnumber.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\armstrongnumber\obj\Debug\net5.0\armstrongnumber.genruntimeconfig.cache

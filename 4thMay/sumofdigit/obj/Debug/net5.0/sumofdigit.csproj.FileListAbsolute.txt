@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\sumofdigit.exe
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\sumofdigit.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\sumofdigit.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\sumofdigit.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\sumofdigit.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\ref\sumofdigit.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\bin\Debug\net5.0\sumofdigit.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\ref\sumofdigit.dll
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\4thMay\sumofdigit\obj\Debug\net5.0\sumofdigit.genruntimeconfig.cache
