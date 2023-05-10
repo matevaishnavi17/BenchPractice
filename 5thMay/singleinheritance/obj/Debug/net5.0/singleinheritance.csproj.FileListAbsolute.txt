@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\singleinheritance.exe
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\singleinheritance.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\singleinheritance.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\singleinheritance.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\singleinheritance.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\ref\singleinheritance.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\bin\Debug\net5.0\singleinheritance.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\ref\singleinheritance.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\singleinheritance\obj\Debug\net5.0\singleinheritance.genruntimeconfig.cache

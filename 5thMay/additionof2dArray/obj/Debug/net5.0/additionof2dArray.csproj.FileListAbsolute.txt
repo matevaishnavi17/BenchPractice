@@ -1,0 +1,16 @@
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\additionof2dArray.exe
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\additionof2dArray.deps.json
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\additionof2dArray.runtimeconfig.json
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\additionof2dArray.runtimeconfig.dev.json
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\additionof2dArray.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\ref\additionof2dArray.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\bin\Debug\net5.0\additionof2dArray.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.csproj.AssemblyReference.cache
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.AssemblyInfoInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.AssemblyInfo.cs
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.csproj.CoreCompileInputs.cache
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\ref\additionof2dArray.dll
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.pdb
+C:\Users\VGANESHM\Documents\Bench Practice\5thMay\additionof2dArray\obj\Debug\net5.0\additionof2dArray.genruntimeconfig.cache
